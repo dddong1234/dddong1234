@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddong1234&show_icons=true&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dddong1234&row=1&column=5&theme=flat&margin-w=15)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddong1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

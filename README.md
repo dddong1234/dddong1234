@@ -5,6 +5,14 @@
 ### AI / ML Developer interested in Healthcare AI, LLM, and FastAPI
 
 ## 🔗 Links
+
+<a href="https://portfolio-site-lemon-gamma.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://sdh080200.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-Tistory-EB531F?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
+
 </div>
 
 <br>

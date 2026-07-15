@@ -51,6 +51,7 @@
 ---
 
 <div align="center">
+  
 ## 🛠 Tech Stack
 
 ### Languages
@@ -61,6 +62,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
 ### AI / Machine Learning
 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -101,3 +103,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddong1234&layout=compact)
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=dddong1234&theme=flat&no-frame=true&margin-w=10"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>

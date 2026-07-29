@@ -99,8 +99,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dddong1234&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddong1234&layout=compact)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dddong1234&theme=github" />
+</p>
 
 ---
 

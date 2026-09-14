@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, dddong1234입니다
 
-### AI / ML Developer interested in Healthcare AI, LLM, and FastAPI
+
 
 ## 🔗 Links
 
